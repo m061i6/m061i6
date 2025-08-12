@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 嗨，我是 Po
 
-<!--
-**m061i6/m061i6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 我是一位全端工程師，專精於 PHP、Python、React  
+🚀 目前專注於網站開發與互動式應用  
+📚 喜歡嘗試新技術，並持續學習  
+🎯 近期目標：提升資料分析與 AI 應用能力  
+🌏 來自台灣 Taian
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub 活動紀錄
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m061i6&show_icons=true&theme=radical)
+
+---
+
+## 🛠 技能
+- **前端**：HTML / CSS / JavaScript / React / TailwindCSS
+- **後端**：PHP / Laravel / Python
+- **資料庫**：MySQL
+- **其他**：Docker / WebSocket / API 串接
