@@ -18,3 +18,4 @@
 - **後端**：PHP / Laravel / Python
 - **資料庫**：MySQL
 - **其他**：Docker / WebSocket / API 串接
+- **AI 工具**：ChatGPT / GitHub Copilot / Gemini
