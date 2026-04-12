@@ -8,14 +8,9 @@
 
 ---
 
-## 📈 GitHub 活動紀錄
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m061i6&show_icons=true&theme=radical)
-
----
-
 ## 🛠 技能
 - **前端**：HTML / CSS / JavaScript / React / TailwindCSS
 - **後端**：PHP / Laravel / Python
 - **資料庫**：MySQL
 - **其他**：Docker / WebSocket / API 串接
-- **AI 工具**：ChatGPT / GitHub Copilot / Gemini
+- **AI 工具**：ChatGPT / GitHub Copilot / Gemini / Claude / V0
