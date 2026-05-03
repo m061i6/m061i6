@@ -1,16 +1,39 @@
-# 👋 嗨，我是 Po
+# 👋 Hi, I'm Po
 
-💻 我是一位全端工程師，專精於 PHP、Python、React  
-🚀 目前專注於網站開發與互動式應用  
-📚 喜歡嘗試新技術，並持續學習  
-🎯 近期目標：提升資料分析與 AI 應用能力  
-🌏 來自台灣 Taiwan
+💼 Founder @ 原博多媒體設計有限公司  
+💻 Full-Stack Engineer / System Architect  
+🌏 Taiwan  
 
 ---
 
-## 🛠 技能
-- **前端**：HTML / CSS / JavaScript / React / TailwindCSS
-- **後端**：PHP / Laravel / Python
-- **資料庫**：MySQL
-- **其他**：Docker / WebSocket / API 串接
-- **AI 工具**：ChatGPT / GitHub Copilot / Gemini / Claude / V0
+## 🚀 About Me
+- 一人完成系統開發 → 設計 / 開發 / 部署 / 維運  
+- 擅長接手舊系統與大型資料遷移  
+- 政府與大型專案經驗（10+ 年資料處理）  
+- 導入 AI 協作開發（Multi-Agent Workflow）
+
+---
+
+## 🛠 AI
+ChatGPT / Claude / Gemini / Copilot / V0  
+
+---
+
+## ⚙️ What I Build
+- 🌐 Web 系統（前後台 + API）
+- 📚 教育 / 題庫系統
+- 🎮 即時互動應用（投票 / AI 生成）
+- 📊 管理後台 / Dashboard
+
+---
+
+## 🎯 Current Focus
+- AI Agent 開發流程
+- Data Analytics
+- 系統重構與優化
+
+---
+
+## ⚡ Fun Fact
+> Code 可以是 AI 寫的  
+> 但架構與成敗，我負責 😎
