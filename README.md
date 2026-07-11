@@ -24,6 +24,8 @@ with real division of labor, spec-driven workflows, cross-model code review, and
 
 - 一人完成系統開發 → 設計 / 開發 / 部署 / 維運
   <br>End-to-end solo system development — design, build, deploy, operate
+- 深耕台灣原住民族語數位化領域 10+ 年
+  <br>10+ years dedicated to the digitalization of Taiwan's indigenous languages
 - 擅長接手舊系統與大型資料遷移（10+ 年政府與大型專案經驗）
   <br>Legacy-system takeovers & large-scale data migration (10+ years of government & enterprise projects)
 - 現在：定義需求、拍板決策、把關品質——寫 code 的是我的 AI 團隊
