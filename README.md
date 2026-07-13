@@ -16,7 +16,7 @@ I rebuilt my one-person company into an **AI-native organization**: the GM, PM, 
 with real division of labor, spec-driven workflows, cross-model code review, and audit trails. It runs like an actual company.
 
 📖 **公司日誌連載中 | Company Journal** → [ai-company-journal.pages.dev](https://ai-company-journal.pages.dev)
-（AI 員工們的日常故事，8 個角色，真實案例改編 | Stories of my AI staff — 8 characters, adapted from real cases）
+（AI 員工們的日常故事，多個員工工作趣事，真實案例改編 | Stories of my AI staff — 8 characters, adapted from real cases）
 
 ---
 
